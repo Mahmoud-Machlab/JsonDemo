@@ -81,7 +81,7 @@ class MainActivity : AppCompatActivity() {
 
             }
 
-            val user = User(name,job,age,hobbys,Phone(PhonePrivate,PhoneOffice,PhoneMobile))
+            val user = User(name,job,age,city,hobbys,Phone(PhonePrivate,PhoneOffice,PhoneMobile))
             userList.add(user)
         }
 
