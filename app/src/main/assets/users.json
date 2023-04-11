@@ -1,0 +1,52 @@
+{
+  "description": "Eine Liste von Benutzern",
+  "isEmpty": false,
+  "since": 1980,
+  "version": 2.55,
+  "users": [
+    {
+      "name": "Frank",
+      "job": "Dozent",
+      "age": 53,
+      "city": "Berlin",
+      "hobbys": [
+        "programmieren",
+        "fotografieren",
+        "lesen"
+      ],
+      "phone": {
+        "private": "0000000",
+        "office": "000000",
+        "mobile": "0000000"
+      }
+    },
+    {
+      "name": "Hans",
+      "age": 15,
+      "city": "Hamburg",
+      "hobbys": [
+        "angeln",
+        "schwimmen"
+      ],
+      "phone": {
+        "private": "1111111"
+      }
+    },
+    {
+      "name":"Peter",
+      "age":52,
+      "city":"Berlin",
+      "hobbys":[
+        "programmieren",
+        "lesen",
+        "fotografieren"
+      ],
+      "phone":{
+        "private":"0000000",
+        "office":"0000000",
+        "mobile":null
+      },
+      "job": "Bäcker"
+    }
+  ]
+}
