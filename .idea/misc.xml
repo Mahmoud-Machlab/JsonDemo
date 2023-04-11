@@ -7,4 +7,11 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+  <component name="jsonEditor">
+    <option name="stateMap">
+      <map>
+        <entry key="JsonDemo" value="{&#10;  &quot;description&quot;: &quot;Eine Liste von Benutzern&quot;,&#10;  &quot;isEmpty&quot;: false,&#10;  &quot;since&quot;: 1980,&#10;  &quot;version&quot;: 2.55,&#10;  &quot;users&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;Frank&quot;,&#10;      &quot;job&quot;: &quot;Dozent&quot;,&#10;      &quot;age&quot;: 53,&#10;      &quot;city&quot;: &quot;Berlin&quot;,&#10;      &quot;hobbys&quot;: [&#10;        &quot;programmieren&quot;,&#10;        &quot;fotografieren&quot;,&#10;        &quot;lesen&quot;&#10;      ],&#10;      &quot;phone&quot;: {&#10;        &quot;private&quot;: &quot;0000000&quot;,&#10;        &quot;office&quot;: &quot;000000&quot;,&#10;        &quot;mobile&quot;: &quot;0000000&quot;&#10;      }&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;Hans&quot;,&#10;      &quot;age&quot;: 15,&#10;      &quot;city&quot;: &quot;Hamburg&quot;,&#10;      &quot;hobbys&quot;: [&#10;        &quot;angeln&quot;,&#10;        &quot;schwimmen&quot;&#10;      ],&#10;      &quot;phone&quot;: {&#10;        &quot;private&quot;: &quot;1111111&quot;&#10;      }&#10;    },&#10;    {&#10;      &quot;name&quot;:&quot;Peter&quot;,&#10;      &quot;age&quot;:52,&#10;      &quot;city&quot;:&quot;Berlin&quot;,&#10;      &quot;hobbys&quot;:[&#10;        &quot;programmieren&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;fotografieren&quot;&#10;      ],&#10;      &quot;phone&quot;:{&#10;        &quot;private&quot;:&quot;0000000&quot;,&#10;        &quot;office&quot;:&quot;0000000&quot;,&#10;        &quot;mobile&quot;:null&#10;      },&#10;      &quot;job&quot;: &quot;Bäcker&quot;&#10;    }&#10;  ]&#10;}" />
+      </map>
+    </option>
+  </component>
 </project>
